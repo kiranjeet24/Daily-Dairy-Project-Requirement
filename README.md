@@ -1,8 +1,8 @@
 # Daily-Dairy-Project-Requirement
 
-- The First requirement It should be simple and easy.
-- So we think the fields are only title, and content rest are auto generated like username who post dairy.
-- We want the dairy should shown only specific student group where student and instructor enrolled.
+- The First requirement is it should be simple and easy.
+- The fields required in this doctype are title, content, date, student group and instructor.
+- We want the dairy should be shown only to specific student group where student and instructor are enrolled.
 
 
 ``` We plan to create one doctype name daily dairy then make copy of it for all programs then add permissions ```
